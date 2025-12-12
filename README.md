@@ -28,7 +28,7 @@ Present three actionable insights for business decision-making
 
 🗂 Dataset
 
-Superstore Sales Dataset (Kaggle) — a clean, classic dataset ideal for KPI calculation and dashboard practice.
+Superstore Sales Dataset (Kaggle) [— a clean, classic dataset ideal for KPI calculation and dashboard practice.](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 Contains:
 
